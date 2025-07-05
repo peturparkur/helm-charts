@@ -2,4 +2,4 @@
 
 A set of helm charts which don't provide a registry to download it from.
 
-see: https://github.com/peturparkur/helm-charts
+see: [https://github.com/peturparkur/helm-charts](https://github.com/peturparkur/helm-charts)
